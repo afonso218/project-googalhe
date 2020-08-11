@@ -1,0 +1,4 @@
+
+BUGS TO FIXE:
+
+- Disconected worker stop server with tasks to do
